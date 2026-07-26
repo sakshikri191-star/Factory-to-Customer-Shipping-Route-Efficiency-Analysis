@@ -285,12 +285,12 @@ streamlit run 08_streamlit_dashboard.py
 
 ## 👨‍💻 Author
 
-**Satyam Kumar Singh**
-*BCA Student · Data Analytics · Business Intelligence*
+**Sakshi Kumari**
+
 
 Passionate about solving real-world business problems using data analytics and visualization.
 
-📧 satyamsinghb45@gmail.com
+📧 sakshikri191@gmail.com
 
 ---
 
