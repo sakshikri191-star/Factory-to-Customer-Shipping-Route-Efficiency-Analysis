@@ -6,7 +6,7 @@
 
 **End-to-end analytics workflow — from raw data cleaning and feature engineering to exploratory analysis, business intelligence reporting, and an interactive dashboard — built to evaluate and optimize factory-to-customer shipping operations across the United States and Canada.**
 
-🌐 Live Dashboard: https://factsatyamp-eivrfhwlvsznxv2zlpkjhu.streamlit.app/
+🌐 https://factory-to-customer-shipping-route-efficiency-analysis-nsernge.streamlit.app/
 
 ---
 
