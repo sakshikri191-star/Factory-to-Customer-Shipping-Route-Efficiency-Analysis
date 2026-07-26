@@ -30,7 +30,7 @@ The project converts raw shipment records into meaningful business insights that
 
 🚀 Explore the live interactive dashboard here:
 
-**👉 [factsatyamp-eivrfhwlvsznxv2zlpkjhu.streamlit.app](https://factsatyamp-eivrfhwlvsznxv2zlpkjhu.streamlit.app/)**
+**👉 [factsasakship-eivrfhwlvsznxv2zlpkjhu.streamlit.app](https://factory-to-customer-shipping-route-efficiency-analysis-nsernge.streamlit.app/)**
 
 ---
 
